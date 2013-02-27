@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/juanmaguitar/boilerplate_mocha-express-chai.png?branch=master)](https://travis-ci.org/juanmaguitar/boilerplate_mocha-express-chai)
+
 Based on: https://github.com/js-coder/js-testing-boilerplates
 
 # Express + Mocha & Co
